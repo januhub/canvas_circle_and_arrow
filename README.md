@@ -1,6 +1,6 @@
 # Canvas : circle_and_arrow 
 
-[Bubble app link](https://januhub.github.io/canvas_circle_and_arrow/)
+[Canvas HTML 5 app link](https://januhub.github.io/canvas_circle_and_arrow/)
 
 ## Description
 1. A Simple Application using HTML5 Canvas Element is created. A circle is drawn to the left side of the canvas & is filled with a color.
